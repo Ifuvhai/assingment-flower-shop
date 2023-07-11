@@ -244,3 +244,19 @@
     font-weight: 400;
     padding-top: 12px;
 }
+.email-field{
+    width: 700px;
+    height: 64px;
+    border: none;
+    border-radius: 8px;
+    background: #FFF;
+    margin-top: 48px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    font-weight: 500;
+    padding-left: 25px;
+}
+.btn{
+    margin-left: 15px;
+}
