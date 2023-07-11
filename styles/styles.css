@@ -2,7 +2,7 @@
     margin: 0px;
     padding: 0px;
 }
-            /* banner section starts here */
+            /* banner section starts here... */
 .banner-container{
     height: 840px;
     background-color: rgba(229, 84, 115, 0.10);
@@ -47,10 +47,11 @@
     padding: 30px 50px;
     margin: 46px 150px 0px 0px;
 }
-/* banner section end here */
+                    /* banner section end here... */
 
-                    /* featured section starts here */
 
+
+                    /* featured section starts here... */
 .featured-section{
     height: 200px;
     text-align: center;
@@ -147,9 +148,11 @@
     font-weight: 600;
     padding-top: 24px;
 }
-         /* featured section end here */
+         /* featured section end here... */
 
-         /* hot deal section starts here */
+
+
+         /* hot deal section starts here... */
 .hot-deal-section{
     width: 1922px;
     height: 620px;
@@ -190,9 +193,11 @@
 .pink{
    color: #E55473;
 }
-            /* hot deal section end here */
+            /* hot deal section end here... */
 
-            /* social and image section starts here */
+
+
+            /* social and image section starts here... */
 .social-feature{
     text-align: center;
     margin-top: 130px;
@@ -219,7 +224,12 @@
     gap: 25px;
     margin-bottom: 128px;
 }
-            /* social and image section end here */
+            /* social and image section end here... */
+
+
+
+
+            /* contact section starts here... */
 .contact-section{
     width: 1440px;
     height: 449px;
@@ -260,3 +270,38 @@
 .btn{
     margin-left: 15px;
 }
+            /* contact section end here... */
+
+
+
+            /* footer section starts here... */
+.footer-section{
+    margin-top: 130px;
+    height: 449px;
+    background-color: #111010;
+}
+.footer-text{
+    color: #FFF;
+    text-align: center;
+    padding-top: 130px;
+}
+.footer-title{
+    /* color: #E55473; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 48px;
+    font-weight: 800;
+    padding-bottom: 20px;
+}
+.footer-description{
+    color: rgba(255, 255, 255, 0.719);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+.copyright{
+    color: rgba(255, 255, 255, 0.493);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    padding-top: 20px;
+}
+            /* footer section end here... */
