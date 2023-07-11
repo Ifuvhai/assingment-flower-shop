@@ -217,5 +217,30 @@
     display: flex;
     justify-content: center;
     gap: 25px;
+    margin-bottom: 128px;
 }
             /* social and image section end here */
+.contact-section{
+    width: 1440px;
+    height: 449px;
+    background-image: url('../assets/Rectangle\ 9.png');
+    margin: auto;
+}
+.contact-text{
+    text-align: center;
+    padding-top: 130px;
+}
+.contact-title{
+    color: #272727;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 800;
+}
+.contact-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family:initial;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 12px;
+}
