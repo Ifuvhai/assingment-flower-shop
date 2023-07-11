@@ -148,3 +148,46 @@
     padding-top: 24px;
 }
          /* featured section end here */
+
+         /* hot deal section starts here */
+.hot-deal-section{
+    width: 1922px;
+    height: 620px;
+    border-radius: 8px;
+    background-color: rgba(229, 84, 115, 0.05);
+    margin-top: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
+.hot-deal-title{
+    color: #272727;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    font-weight: 950;
+    padding-bottom: 24px;
+}
+.hot-deal-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    padding-bottom: 32px;
+}
+.deal-btn{
+    border: none;
+    border-radius: 8px;
+    background-color: #E55473;
+    padding: 20px 43px;
+    color: #FFF;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 224px;
+}
+.pink{
+   color: #E55473;
+}
+            /* hot deal section end here */
