@@ -2,6 +2,39 @@
     margin: 0px;
     padding: 0px;
 }
+                /* nav section starts here... */
+.container{
+    background-color: rgba(229, 84, 115, 0.205);
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    align-items: center;
+    height: 120px;
+}
+.logo{
+    cursor: pointer;
+}
+.logo-img{
+    width: 140px;
+}
+.list{
+    display: flex;
+}
+.list-item{
+    padding-left: 30px;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 500;
+    margin-left: 60px;
+    cursor: pointer;
+    color: #272727;
+}
+.list-item:hover{
+    color: rgb(255, 187, 41);
+}
+            /* nav section end here... */
+
+
             /* banner section starts here... */
 .banner-container{
     height: 840px;
@@ -41,7 +74,13 @@
     font-size: 20px;
     font-style: normal;
     font-weight: 700;
-    
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgba(17, 167, 134, 0.349);
+    color: #fa3d66;
+    border: 1px solid #FFF;
+    font-size: 22px;
 }
 .banner-image{
     padding: 30px 50px;
@@ -105,7 +144,14 @@
     margin-top: 110px;
     margin-left: 76px;
 }
-
+.featured-img-second{
+    margin-top: 165px;
+    margin-left: 50px;
+}
+.featured-img-third{
+    margin-top: 67px;
+    margin-left: 76px;
+}
 .flower-name{
     color: #272727;
     text-align: center;
