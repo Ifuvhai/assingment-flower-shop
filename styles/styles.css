@@ -191,3 +191,31 @@
    color: #E55473;
 }
             /* hot deal section end here */
+
+            /* social and image section starts here */
+.social-feature{
+    text-align: center;
+    margin-top: 130px;
+}
+.social-title{
+    color: #272727;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    padding-bottom: 23px;
+}
+.social-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.social-images{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+            /* social and image section end here */
